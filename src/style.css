@@ -1,0 +1,10 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.weather-widget {
+  background: #f9f9f9;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+}
